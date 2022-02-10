@@ -47,7 +47,7 @@ For further details read 'README_vasp'.
 Author:
 -------
 
-Jens Kunstmann (jens.kunstmann@tu-dresden.de)
+Jens Kunstmann (jens@j-kunstmann.de)
 appreciates comments and bug reports.
 
 
@@ -65,21 +65,6 @@ the Free Software Foundation; either version 2 of the License, or
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
-
-
-Contents:
----------
-
-bin/			the binary directory
-source			the source files
-lm_example/		LMTO example files
-v_example		VASP example files
-
-README			this file
-README_lmto		the README for 'lm2xsf'
-README_vasp		the README for 'v2xsf'
-bin/linux-i386/lm2xsf	a 'lm2xsf' executable for Linux systems
-bin/linux-i386/v2xsf	a 'v2xsf' executable for Linux systems
 
 
 Installation:

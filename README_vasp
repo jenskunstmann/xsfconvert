@@ -23,7 +23,7 @@ Version:
 Author:
 -------
 
-Jens Kunstmann (jens.kunstmann@tu-dresden.de)
+Jens Kunstmann (jens@j-kunstmann.de)
 appreciates comments and bug reports.
 
 
@@ -41,17 +41,6 @@ the Free Software Foundation; either version 2 of the License, or
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
- 
-
-Contents:
----------
-
-bin/			the binary directory
-source/			the source files
-v_example/		VASP example files
-
-README_vasp		this file
-bin/linux-i386/v2xsf	an executable for Linux systems
 
 
 Requirements:
@@ -238,4 +227,3 @@ References:
 
 VASP:		http://cms.mpi.univie.ac.at/vasp/
 XCrysDen:	http://www.xcrysden.org/
-
