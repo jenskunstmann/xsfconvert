@@ -61,7 +61,7 @@ Installation:
 -------------
 
 The program is written in ANSI-C and should compile on any machine.
-Just enter the 'source' directory and type 'make':
+In a linux shell change to the xsfconvert directory and type:
 
  > mkdir bin
  > cd source
