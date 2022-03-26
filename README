@@ -71,8 +71,8 @@ Installation:
 -------------
 
 The package is written in ANSI-C and should compile on any machine.
-To compile ALL programs just enter the 'source' directory and type 'make
-all': 
+To compile ALL programs in a linux shell change to the xsfconvert 
+directory and type:
 
  > mkdir bin
  > cd source
