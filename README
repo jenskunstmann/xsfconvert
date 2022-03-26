@@ -74,6 +74,7 @@ The package is written in ANSI-C and should compile on any machine.
 To compile ALL programs just enter the 'source' directory and type 'make
 all': 
 
+ > mkdir bin
  > cd source
  > make all
 
