@@ -63,6 +63,7 @@ Installation:
 The program is written in ANSI-C and should compile on any machine.
 Just enter the 'source' directory and type 'make':
 
+ > mkdir bin
  > cd source
  > make lmto
 
